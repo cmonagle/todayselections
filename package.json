@@ -1,0 +1,16 @@
+{
+  "name": "electionbot",
+  "version": "0.0.1",
+  "description": "twitter bot for national elections",
+  "main": "index.js",
+  "engines": {
+    "node": "8.7.0"
+  },
+  "author": "@cmonagle",
+  "license": "ISC",
+  "dependencies": {
+    "country-emoji": "^1.2.0",
+    "scrape-it": "^3.3.3",
+    "twitter": "^1.7.1"
+  }
+}
